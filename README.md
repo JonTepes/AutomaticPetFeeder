@@ -19,6 +19,11 @@ This project is a 3D-printed automatic pet feeder powered by an ESP32-C3 Supermi
 *   **User Input:** Rotary Encoder with Push Button
 *   **Real-Time Clock (RTC):** DS1307 RTC Module
 
+## Videos
+
+*   [Short Demo](https://www.youtube.com/shorts/r4_g70Mr-q4)
+*   [Full Demo](https://www.youtube.com/watch?v=tzzg1AwfhTk)
+
 ## Pictures
 
 ![Completed](pictures/completed.jpg)
