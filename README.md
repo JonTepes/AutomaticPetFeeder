@@ -21,8 +21,8 @@ This project is a 3D-printed automatic pet feeder powered by an ESP32-C3 Supermi
 
 ## Videos
 
-*   [Short Demo](https://www.youtube.com/shorts/r4_g70Mr-q4)
-*   [Full Demo](https://www.youtube.com/watch?v=tzzg1AwfhTk)
+*   [Demo](https://www.youtube.com/shorts/r4_g70Mr-q4)
+*   [Inside](https://www.youtube.com/watch?v=tzzg1AwfhTk)
 
 ## Pictures
 
