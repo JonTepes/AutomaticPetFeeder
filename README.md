@@ -10,12 +10,7 @@ This project is a 3D-printed cat feeder that uses an Arduino Nano, a stepper mot
 
 ## Pictures
 
-![Back view](pictures/back_view.jpg)
-![Circuit image](pictures/circuit_image.png)
 ![Completed](pictures/completed.jpg)
-![Inside](pictures/inside.jpg)
-![Opened](pictures/opened.jpg)
-![Wiring](pictures/wiring.jpg)
 
 ## STLs
 
