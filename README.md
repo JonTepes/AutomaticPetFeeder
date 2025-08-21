@@ -13,13 +13,11 @@ This project is a 3D-printed automatic pet feeder powered by an ESP32-C3 Supermi
 ## Components Used
 
 *   **Microcontroller:** ESP32-C3 Supermini
-*   **Stepper Motor:** 28BYJ-48 Geared Stepper Motor
+*   **Stepper Motor:** 28BYJ-48 Stepper Motor
 *   **Stepper Motor Driver:** (e.g., ULN2003 or similar, required for the 28BYJ-48 motor)
 *   **Display:** OLED Display (SSD1306, 128x64 pixels)
 *   **User Input:** Rotary Encoder with Push Button
 *   **Real-Time Clock (RTC):** DS1307 RTC Module
-*   **Power Supply:** (e.g., 5V DC power adapter)
-*   **Wiring:** Jumper wires, breadboard (optional for prototyping)
 
 ## Pictures
 
